@@ -1,8 +1,6 @@
 
 # Welcome to Pragyan's GitHub Profile
 
-![Profile Photo]
-
 ## About Me
 Hi, I am Pragyan, an aspiring Data Analyst and Blockchain student. I am passionate about turning raw data into actionable insights. My expertise includes:
 
