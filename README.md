@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Pragyanojha0402/Pragyanojha0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Pragyan's GitHub Profile
 
-Here are some ideas to get you started:
+![Profile Photo]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Hi, I am Pragyan, an aspiring Data Analyst and Blockchain student. I am passionate about turning raw data into actionable insights. My expertise includes:
+
+- Data Analysis
+- Data Visualization
+- Data Cleaning
+- Data Modeling
+- Excel
+- Blockchain 
+
+## Skills
+- **Programming Languages:** Python, SQL
+- **Data Visualization:** Tableau, Power BI, Matplotlib
+- **Data Cleaning:** Pandas, NumPy
+- **Data Modeling:** Normalization, Dimensional Modeling
+- **Tools:** Excel, Git, GitHub
+
+
+## Education
+- **Blockchain Studies:** [Teerthankar Mahaveer University]
+- **Data Analysis Certification:** ( IBM , ACCENTURE, TATA )
+
+## Contact Me
+- **Email:** [iampragyan04@gmail.com]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pragyan-ojha-03a376293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
